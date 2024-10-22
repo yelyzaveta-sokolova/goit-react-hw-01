@@ -1,0 +1,14 @@
+.listFriend {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.itemFriend {
+    width: 80px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    padding: 12px 12px;
+}

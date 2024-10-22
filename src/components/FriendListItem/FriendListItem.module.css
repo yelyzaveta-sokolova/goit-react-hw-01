@@ -1,0 +1,15 @@
+.friendName {
+    font-size: 18px;
+}
+
+.nwStatus {
+    color: #ea3323;
+}
+
+.nwStatus.isOnline {
+    color: #377e22;
+}
+
+.friendAvatarImg {
+    margin: 0 auto;
+}
